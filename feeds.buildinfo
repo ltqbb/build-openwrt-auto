@@ -1,2 +1,6 @@
 #This includes only the changes compared to the default configuration:
 #src-git helloworld https://github.com/fw876/helloworld.git
+src-git istore https://github.com/linkease/istore
+src-git naspackage https://github.com/linkease/nas-packages
+src-git nasluci https://github.com/linkease/nas-packages-luci
+src-git wolplus https://github.com/sundaqiang/openwrt-packages.git
